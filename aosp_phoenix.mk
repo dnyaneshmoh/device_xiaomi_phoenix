@@ -27,4 +27,10 @@ TARGET_GAPPS_ARCH := arm64
 TARGET_INCLUDE_STOCK_ARCORE := true
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
+# PixelPlusUI Maintainer
+CUSTOM_BUILD_TYPE := OFFICIAL
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.pixelplusui.maintainer= Dnyanesh
+
 BUILD_FINGERPRINT := google/coral/coral:10/QQ3A.200705.002/6506677:user/release-keys
+
