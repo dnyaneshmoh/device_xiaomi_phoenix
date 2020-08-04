@@ -9,4 +9,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     aosp_phoenix-userdebug \
+    aosp_phoenix-user \
     aosp_phoenix-eng
