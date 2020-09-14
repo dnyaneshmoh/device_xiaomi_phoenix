@@ -29,7 +29,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # PixelPlusUI Maintainer
 CUSTOM_BUILD_TYPE := OFFICIAL
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.pixelplusui.maintainer= Dnyanesh
+PPUI_MAINTAINER := Dnyanesh
 
 BUILD_FINGERPRINT := google/coral/coral:11/RP1A.200720.009/6720564:user/release-keys
