@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "rakeshraimca/Hardrock_phoenix",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "sm6150"
+  },
+  {
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "master"
+  },
+  {
+    "repository": "hyper-jocker/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "zenx"
+  },
+  {
+    "repository": "hyper-jocker/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "zenx"
+  },
+  {
+    "repository": "hyper-jocker/device_xiaomi_phoenix",
+    "target_path": "device/xiaomi/phoenix",
+    "branch": "zenx"
+  },
+  {
+    "repository": "hyper-jocker/android_device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch": "zenx"
+  },
+]
